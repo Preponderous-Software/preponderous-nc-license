@@ -11,6 +11,9 @@ This FAQ is intended to clarify common questions about using, modifying, and lic
 
 Preponderous Software is the name of the open-source organization under which these projects are developed and maintained, but legal ownership rests entirely with Daniel McCoy Stephenson.
 
+Full license text:  
+[https://github.com/Preponderous-Software/preponderous-nc-license/blob/main/LICENSE.md](https://github.com/Preponderous-Software/preponderous-nc-license/blob/main/LICENSE.md)
+
 ---
 
 ## 2. Can I use the software for personal or educational purposes?
@@ -57,7 +60,7 @@ You must obtain a separate commercial license from the author.
 
 Contact:  
 **Daniel McCoy Stephenson**  
-GitHub: [https://github.com/danielmccoy](https://github.com/dmccoystephenson)
+GitHub: [https://github.com/dmccoystephenson](https://github.com/dmccoystephenson)
 
 Commercial licenses are negotiated individually to ensure ethical use and proper attribution.
 
@@ -90,8 +93,9 @@ Other projects may be licensed differently.
 
 ## 10. Where can I learn more about the license?
 
-- [LICENSE.md](./LICENSE.md) – Full license text  
 - [README.md](./README.md) – Overview and purpose  
-- [SPDX-USAGE.md](./SPDX-USAGE.md) – Tagging and compliance guidelines  
+- [LICENSE.md](./LICENSE.md) – Full license text  
+- [SPDX_USAGE.md](./SPDX_USAGE.md) – Tagging and compliance guidelines  
+- Canonical source: [https://github.com/Preponderous-Software/preponderous-nc-license](https://github.com/Preponderous-Software/preponderous-nc-license)
 
 ---

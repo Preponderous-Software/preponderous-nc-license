@@ -9,7 +9,11 @@ This license was created with reference to:
 
 It is designed specifically for **software**, with additional provisions for **authentication**, **access control**, and **commercial licensing**.
 
-> **Disclaimer:** *Preponderous Software is not a legal entity.* All rights to works published under this license are reserved by the copyright holder, **Daniel McCoy Stephenson**.
+> **Disclaimer:** *Preponderous Software is not a legal entity.*  
+> All rights to works published under this license are reserved by the copyright holder, **Daniel McCoy Stephenson**.
+
+Full license text:  
+[https://github.com/Preponderous-Software/preponderous-nc-license/blob/main/LICENSE.md](https://github.com/Preponderous-Software/preponderous-nc-license/blob/main/LICENSE.md)
 
 ---
 
@@ -33,7 +37,7 @@ It is designed specifically for **software**, with additional provisions for **a
 | Public forks without monetization   | ✅ With attribution and conditions  |
 | Bypassing auth or licensing checks  | ❌ Strictly prohibited              |
 
-See [`LICENSE.md`](./LICENSE.md) for full terms.
+See [`LICENSE.md`](./LICENSE.md) or the [canonical license repository](https://github.com/Preponderous-Software/preponderous-nc-license) for full terms.
 
 ---
 

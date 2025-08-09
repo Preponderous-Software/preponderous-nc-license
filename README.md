@@ -78,3 +78,20 @@ Commercial licenses are handled individually to ensure ethical use and proper at
 
 Created and maintained by **Daniel McCoy Stephenson** under the [Preponderous Software](https://github.com/Preponderous-Software) organization.  
 Conceptually based on **CC BY-NC 4.0** and **BSL 1.1**, adapted for interactive, server-hosted software.
+
+---
+
+## License Section for READMEs
+The following can be pasted into READMEs for convenience.
+```
+## 📄 License
+
+This project is licensed under the **Preponderous Non-Commercial License (Preponderous-NC)**.  
+It is free to use, modify, and self-host for **non-commercial** purposes, but **commercial use requires a separate license**.
+
+> **Disclaimer:** *Preponderous Software is not a legal entity.*  
+> All rights to works published under this license are reserved by the copyright holder, **Daniel McCoy Stephenson**.
+
+Full license text:  
+[https://github.com/Preponderous-Software/preponderous-nc-license/blob/main/LICENSE.md](https://github.com/Preponderous-Software/preponderous-nc-license/blob/main/LICENSE.md)
+```

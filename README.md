@@ -55,7 +55,7 @@ Each repository will clearly state this license in its `README` and `LICENSE` fi
 To use a Preponderous Software project commercially, contact:
 
 **Daniel McCoy Stephenson**  
-🔗 [https://github.com/danielmccoy](https://github.com/danielmccoy)
+🔗 [https://github.com/dmccoystephenson](https://github.com/dmccoystephenson)
 
 Commercial licenses are handled individually to ensure ethical use and proper attribution.
 
@@ -64,8 +64,8 @@ Commercial licenses are handled individually to ensure ethical use and proper at
 ## 📚 Additional Files
 
 - [`LICENSE.md`](./LICENSE.md) – Full license text  
-- [`LICENSE-HEADER.txt`](./LICENSE-HEADER.txt) – Source file notice  
-- [`SPDX-USAGE.md`](./SPDX-USAGE.md) – Tagging and compliance  
+- [`LICENSE_HEADER.txt`](./LICENSE_HEADER.txt) – Source file notice  
+- [`SPDX_USAGE.md`](./SPDX_USAGE.md) – Tagging and compliance  
 - [`FAQ.md`](./FAQ.md) – Common questions and scenarios  
 
 ---

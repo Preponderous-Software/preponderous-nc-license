@@ -1,0 +1,14 @@
+SPDX-License-Identifier: LicenseRef-Preponderous-NC
+Copyright (c) 2022–2025 Daniel McCoy Stephenson. All rights reserved.
+
+Preponderous Software is not a legal entity. All rights to works published under
+the Preponderous Non-Commercial License (Preponderous-NC) are reserved by the
+copyright holder, Daniel McCoy Stephenson.
+
+This source code is licensed under the Preponderous Non-Commercial License
+(Preponderous-NC). You may use, modify, and self-host this work for
+non-commercial purposes only, subject to the terms of the license. Commercial
+use requires a separate license from the author.
+
+Full license text:
+https://github.com/Preponderous-Software/preponderous-nc-license/blob/main/LICENSE.md

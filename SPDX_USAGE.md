@@ -67,6 +67,8 @@ This helps ensure that:
 
 - [README.md](./README.md) – Overview and purpose  
 - [LICENSE.md](./LICENSE.md) – Full license text  
+- [LICENSE_HEADER.txt](./LICENSE_HEADER.txt) – Source file notice  
 - [FAQ.md](./FAQ.md) – Common questions and clarifications  
+- [CLA.md](./CLA.md) – Contributor License Agreement  
 
 ---

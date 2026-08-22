@@ -71,6 +71,7 @@ Commercial licenses are handled individually to ensure ethical use and proper at
 - [`LICENSE_HEADER.txt`](./LICENSE_HEADER.txt) – Source file notice  
 - [`SPDX_USAGE.md`](./SPDX_USAGE.md) – Tagging and compliance  
 - [`FAQ.md`](./FAQ.md) – Common questions and scenarios  
+- [`CLA.md`](./CLA.md) – Contributor License Agreement  
 
 ---
 

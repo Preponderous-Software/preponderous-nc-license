@@ -95,7 +95,9 @@ Other projects may be licensed differently.
 
 - [README.md](./README.md) – Overview and purpose  
 - [LICENSE.md](./LICENSE.md) – Full license text  
+- [LICENSE_HEADER.txt](./LICENSE_HEADER.txt) – Source file notice  
 - [SPDX_USAGE.md](./SPDX_USAGE.md) – Tagging and compliance guidelines  
+- [CLA.md](./CLA.md) – Contributor License Agreement  
 - Canonical source: [https://github.com/Preponderous-Software/preponderous-nc-license](https://github.com/Preponderous-Software/preponderous-nc-license)
 
 ---

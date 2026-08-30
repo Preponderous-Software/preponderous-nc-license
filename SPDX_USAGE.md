@@ -53,7 +53,7 @@ Copyright (c) 2022–2025 Daniel McCoy Stephenson. All rights reserved.
 
 ## 🔍 Automated Compliance
 
-Tools like [FOSSology](https://www.fossology.org/), [ScanCode](https://github.com/nexB/scancode-toolkit), and GitHub’s [license scanning](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) can detect the `LicenseRef-Preponderous-NC` tag.
+Tools like [FOSSology](https://www.fossology.org/), [ScanCode](https://github.com/aboutcode-org/scancode-toolkit), and GitHub’s [license scanning](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) can detect the `LicenseRef-Preponderous-NC` tag.
 
 This helps ensure that:
 

@@ -94,7 +94,9 @@ This Software is provided “as is,” without warranty of any kind. Use at your
 
 For SPDX compliance, use the following identifier:
 
+```
 LicenseRef-Preponderous-NC
+```
 
 See `SPDX_USAGE.md` for integration details.
 

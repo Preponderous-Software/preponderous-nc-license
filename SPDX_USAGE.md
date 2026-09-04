@@ -8,7 +8,9 @@ This document explains how to correctly apply the **SPDX identifier** for the Pr
 
 The official SPDX identifier for this license is:
 
+```
 LicenseRef-Preponderous-NC
+```
 
 > **Disclaimer:** *Preponderous Software is not a legal entity.*  
 > All rights to works published under this license are reserved by the copyright holder, **Daniel McCoy Stephenson**.
@@ -29,8 +31,10 @@ Use this SPDX identifier **only** for works that:
 
 For a source file (e.g., `.java`, `.py`, `.js`), place the SPDX identifier at the top, along with a copyright notice:
 
+```
 // SPDX-License-Identifier: LicenseRef-Preponderous-NC  
 // Copyright (c) 2022–2025 Daniel McCoy Stephenson. All rights reserved.
+```
 
 ---
 
@@ -38,8 +42,10 @@ For a source file (e.g., `.java`, `.py`, `.js`), place the SPDX identifier at th
 
 For Markdown or text-based documentation files:
 
+```
 SPDX-License-Identifier: LicenseRef-Preponderous-NC  
 Copyright (c) 2022–2025 Daniel McCoy Stephenson. All rights reserved.
+```
 
 ---
 

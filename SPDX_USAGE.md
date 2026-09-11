@@ -32,7 +32,7 @@ Use this SPDX identifier **only** for works that:
 For a source file (e.g., `.java`, `.py`, `.js`), place the SPDX identifier at the top, along with a copyright notice:
 
 ```
-// SPDX-License-Identifier: LicenseRef-Preponderous-NC  
+// SPDX-License-Identifier: LicenseRef-Preponderous-NC
 // Copyright (c) 2022–2025 Daniel McCoy Stephenson. All rights reserved.
 ```
 
@@ -43,7 +43,7 @@ For a source file (e.g., `.java`, `.py`, `.js`), place the SPDX identifier at th
 For Markdown or text-based documentation files:
 
 ```
-SPDX-License-Identifier: LicenseRef-Preponderous-NC  
+SPDX-License-Identifier: LicenseRef-Preponderous-NC
 Copyright (c) 2022–2025 Daniel McCoy Stephenson. All rights reserved.
 ```
 

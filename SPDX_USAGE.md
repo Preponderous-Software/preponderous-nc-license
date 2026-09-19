@@ -36,7 +36,7 @@ For a source file (e.g., `.java`, `.py`, `.js`), place the SPDX identifier at th
 // Copyright (c) 2022–2025 Daniel McCoy Stephenson. All rights reserved.
 ```
 
-A complete source file notice — the same SPDX and copyright lines, followed by the disclaimer, a summary of the terms, and the canonical license URL — is provided in [`LICENSE_HEADER.txt`](./LICENSE_HEADER.txt).
+A complete source file notice — the SPDX and copyright lines above, followed by the disclaimer, a summary of the terms, and the canonical license URL — is provided in [`LICENSE_HEADER.txt`](./LICENSE_HEADER.txt).
 
 ---
 

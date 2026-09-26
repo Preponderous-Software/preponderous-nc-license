@@ -9,7 +9,7 @@ This FAQ is intended to clarify common questions about using, modifying, and lic
 > **Preponderous Software is not a legal entity.**  
 > All rights are held by **Daniel McCoy Stephenson**, the sole copyright holder.
 
-Preponderous Software is the name of the open-source organization under which these projects are developed and maintained, but legal ownership rests entirely with Daniel McCoy Stephenson.
+Preponderous Software is the name of the GitHub organization under which these projects are developed and maintained, but legal ownership rests entirely with Daniel McCoy Stephenson.
 
 Full license text:  
 [https://github.com/Preponderous-Software/preponderous-nc-license/blob/main/LICENSE.md](https://github.com/Preponderous-Software/preponderous-nc-license/blob/main/LICENSE.md)

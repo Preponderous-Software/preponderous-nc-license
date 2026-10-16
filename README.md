@@ -28,14 +28,14 @@ Full license text:
 
 ## 🔑 Summary of Terms
 
-| Feature                             | Allowed Under Preponderous-NC?     |
-|-------------------------------------|-------------------------------------|
-| Personal and educational use        | ✅ Yes                              |
-| Commercial or enterprise use        | ❌ No (requires license)            |
-| Monetization (ads, subscriptions)   | ❌ No                               |
-| Modifications for private use       | ✅ Yes                              |
-| Public forks without monetization   | ✅ With attribution and conditions  |
-| Bypassing auth or licensing checks  | ❌ Strictly prohibited              |
+| Feature                                | Allowed Under Preponderous-NC?     |
+|----------------------------------------|-------------------------------------|
+| Personal, educational, or research use | ✅ Yes                              |
+| Commercial or enterprise use           | ❌ No (requires license)            |
+| Monetization (ads, subscriptions)      | ❌ No                               |
+| Modifications for private use          | ✅ Yes                              |
+| Public forks without monetization      | ✅ With attribution and conditions  |
+| Bypassing auth or licensing checks     | ❌ Strictly prohibited              |
 
 See [`LICENSE.md`](./LICENSE.md) or the [canonical license repository](https://github.com/Preponderous-Software/preponderous-nc-license) for full terms.
 

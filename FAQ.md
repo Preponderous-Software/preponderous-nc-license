@@ -16,7 +16,7 @@ Full license text:
 
 ---
 
-## 2. Can I use the software for personal or educational purposes?
+## 2. Can I use the software for personal, educational, or research purposes?
 
 Yes. You may use, modify, and self-host the software **freely** for personal, educational, and research purposes as long as your use is **non-commercial** and complies with the license terms.
 

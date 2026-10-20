@@ -38,7 +38,7 @@ For a source file (e.g., `.java`, `.py`, `.js`), place the SPDX identifier at th
 
 Use the comment syntax of the file's language — for example, `#` instead of `//` in a `.py` file.
 
-A complete source file notice — the SPDX and copyright lines above, followed by the disclaimer, a summary of the terms, and the canonical license URL — is provided in [`LICENSE_HEADER.txt`](./LICENSE_HEADER.txt).
+A complete source file notice — the SPDX and copyright lines above, followed by the disclaimer, a summary of the terms, and the canonical license URL — is provided in [`LICENSE_HEADER.txt`](./LICENSE_HEADER.txt). That file is plain text with no comment markers, so prefix each of its lines with the file's comment syntax when pasting it into source code.
 
 ---
 

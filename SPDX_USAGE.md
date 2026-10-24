@@ -56,7 +56,7 @@ Copyright (c) 2022–2025 Daniel McCoy Stephenson. All rights reserved.
 ## ⚠️ Common Mistakes to Avoid
 
 - ❌ **Do not** use `LicenseRef-Preponderous-NC` for projects under other licenses  
-- ❌ **Do not** replace the SPDX identifier with `CC-BY-NC` or `BSL` — these are only *inspirations*, not the actual license used  
+- ❌ **Do not** replace the SPDX identifier with `CC-BY-NC-4.0` or `BUSL-1.1` — these are only *inspirations*, not the actual license used (and `BSL-1.0` is the unrelated Boost Software License)  
 - ❌ **Do not** omit the copyright notice — it must always name **Daniel McCoy Stephenson**
 
 ---

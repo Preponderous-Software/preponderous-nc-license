@@ -31,7 +31,7 @@ Full license text:
 | Feature                                | Allowed Under Preponderous-NC?     |
 |----------------------------------------|-------------------------------------|
 | Personal, educational, or research use | ✅ Yes                              |
-| Commercial or enterprise use           | ❌ No (requires license)            |
+| Commercial, corporate, enterprise, or government use | ❌ No (requires license)            |
 | Monetization (ads, subscriptions)      | ❌ No                               |
 | Modifications for private use          | ✅ Yes                              |
 | Public forks without monetization      | ✅ With attribution and conditions  |

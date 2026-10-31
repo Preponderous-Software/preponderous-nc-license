@@ -32,7 +32,7 @@ Commercial use includes (but is not limited to):
 - Using the software in a corporate, enterprise, or government environment  
 - Offering paid support, consulting, or integration services that involve the software
 
-If your use case generates revenue, it is considered commercial and **requires a separate license**.
+If your use case generates revenue or financial compensation, directly or indirectly, it is considered commercial and **requires a separate license**.
 
 ---
 

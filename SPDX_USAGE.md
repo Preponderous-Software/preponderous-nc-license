@@ -1,12 +1,12 @@
 # 🏷️ SPDX Usage – Preponderous Non-Commercial License (Preponderous-NC)
 
-This document explains how to correctly apply the **SPDX identifier** for the Preponderous Non-Commercial License (Preponderous-NC) in source files, documentation, and build tooling.
+This document explains how to correctly apply the **SPDX identifier** for the Preponderous Non-Commercial License (Preponderous-NC) in source files and documentation.
 
 ---
 
 ## 📜 SPDX Identifier
 
-The official SPDX identifier for this license is:
+The SPDX identifier for this license is:
 
 ```
 LicenseRef-Preponderous-NC

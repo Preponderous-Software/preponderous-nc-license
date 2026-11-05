@@ -29,6 +29,7 @@ Commercial use includes (but is not limited to):
 - Selling the software or offering it as part of a paid product/service  
 - Charging for access, subscriptions, or premium features  
 - Hosting the software with monetized ads or sponsorships  
+- SaaS deployments or bundled resale of the software  
 - Using the software in a corporate, enterprise, or government environment  
 - Offering paid support, consulting, or integration services that involve the software
 
@@ -50,7 +51,7 @@ Yes, but with conditions:
 ## 5. Can I remove or bypass the authentication system?
 
 No. The **authentication layer** (such as [`UserAuth`](https://github.com/Preponderous-Software/userauth)) is part of the license enforcement mechanism.  
-Bypassing or altering it violates the license and will result in termination of your rights to use the software.
+Bypassing, disabling, reimplementing, removing, or modifying it violates the license and will result in termination of your rights to use the software.
 
 ---
 

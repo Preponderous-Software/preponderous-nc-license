@@ -31,11 +31,13 @@ Full license text:
 | Feature                                | Allowed Under Preponderous-NC?     |
 |----------------------------------------|-------------------------------------|
 | Personal, educational, or research use | ✅ Yes                              |
+| Self-hosting for personal, educational, or research use | ✅ Yes                              |
 | Commercial, corporate, enterprise, or government use | ❌ No (requires license)            |
-| Monetization (ads, subscriptions)      | ❌ No                               |
+| Monetization (ads, subscriptions, or sales) | ❌ No                               |
+| Reselling or sublicensing              | ❌ No                               |
 | Modifications for private use          | ✅ Yes                              |
 | Public forks without monetization      | ✅ With attribution and conditions  |
-| Bypassing auth or licensing checks     | ❌ Strictly prohibited              |
+| Bypassing, disabling, reimplementing, removing, or modifying auth or licensing checks | ❌ Strictly prohibited              |
 
 See [`LICENSE.md`](./LICENSE.md) or the [canonical license repository](https://github.com/Preponderous-Software/preponderous-nc-license) for full terms.
 

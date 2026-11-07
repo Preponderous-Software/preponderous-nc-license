@@ -35,7 +35,7 @@ Full license text:
 | Commercial, corporate, enterprise, or government use | ❌ No (requires license)            |
 | Monetization (ads, subscriptions, or sales) | ❌ No                               |
 | Reselling or sublicensing              | ❌ No                               |
-| Modifications for private use          | ✅ Yes                              |
+| Modifications for private use          | ✅ With required notices intact     |
 | Public forks without monetization      | ✅ With attribution and conditions  |
 | Bypassing, disabling, reimplementing, removing, or modifying auth or licensing checks | ❌ Strictly prohibited              |
 

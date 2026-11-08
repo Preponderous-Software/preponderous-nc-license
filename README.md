@@ -1,6 +1,6 @@
 # 🛡️ Preponderous Non-Commercial License (Preponderous-NC)
 
-The **Preponderous Non-Commercial License (Preponderous-NC)** governs the use of select Preponderous Software projects. It enables individuals, educators, and researchers to use and self-host software **freely for non-commercial purposes**, while **prohibiting monetized or commercial redistribution**.
+The **Preponderous Non-Commercial License (Preponderous-NC)** governs the use of select Preponderous Software projects. It enables individuals, educators, and researchers to use, modify, and self-host software **freely for non-commercial purposes**, while **prohibiting monetized or commercial redistribution**.
 
 This license was created with reference to:
 

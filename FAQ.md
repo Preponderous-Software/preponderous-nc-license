@@ -44,7 +44,7 @@ Yes, but with conditions:
 - You must clearly attribute the original work to **Daniel McCoy Stephenson**  
 - Your modifications must also be licensed under **Preponderous-NC**  
 - You may not monetize or commercially distribute your modified version  
-- You must not bypass or remove authentication or licensing checks
+- You must not bypass, disable, reimplement, remove, or modify authentication or licensing checks
 
 ---
 

@@ -33,7 +33,7 @@ Full license text:
 | Personal, educational, or research use | ✅ Yes                              |
 | Self-hosting for personal, educational, or research use | ✅ Yes                              |
 | Commercial, corporate, enterprise, or government use | ❌ No (requires license)            |
-| Monetization (ads, subscriptions, or sales) | ❌ No                               |
+| Monetization (ads, subscriptions, or sales) | ❌ No (requires license)            |
 | Reselling or sublicensing              | ❌ No                               |
 | Modifications for private use          | ✅ With required notices intact     |
 | Public forks without monetization      | ✅ With attribution and conditions  |

@@ -63,13 +63,7 @@ Copyright (c) 2022–2025 Daniel McCoy Stephenson. All rights reserved.
 
 ## 🔍 Automated Compliance
 
-Tools that read `SPDX-License-Identifier` lines, like [FOSSology](https://www.fossology.org/) and [ScanCode](https://github.com/aboutcode-org/scancode-toolkit), can detect the `LicenseRef-Preponderous-NC` tag.
-
-This helps ensure that:
-
-- License usage is correctly tracked  
-- Non-commercial restrictions are respected  
-- Commercial violations can be identified quickly
+Tools that read `SPDX-License-Identifier` lines, like [FOSSology](https://www.fossology.org/) and [ScanCode](https://github.com/aboutcode-org/scancode-toolkit), can detect the `LicenseRef-Preponderous-NC` tag, which helps track where the license is used.
 
 GitHub’s [repository license detection](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) does not recognize this license, so repositories under it are shown as “Other”.
 
